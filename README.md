@@ -14,7 +14,7 @@ This is my configuration for sublime text 3.
 10. [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 11. [Terminal](https://packagecontrol.io/packages/Terminal)
 
-### Usage
+## Usage
 1. Have a fresh install of Sublime Text
 2. Create a symlink of this repository
 3. Replace /Packages/User folder with the symlink
