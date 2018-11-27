@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme"
+}
