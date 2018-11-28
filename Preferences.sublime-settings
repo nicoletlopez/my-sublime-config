@@ -1,9 +1,17 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		80
+	],
 	"save_on_focus_lost": true,
-	"theme": "Adaptive.sublime-theme"
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
