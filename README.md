@@ -1,11 +1,11 @@
 # My Sublime Text 3 Configuration
-This is my configuration for sublime text 3. 
+This is my configuration for sublime text 3.
 
 ## Packages Installed (from [Package Control](https://packagecontrol.io/)):
 1. [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
 2. [AutoFileName](https://packagecontrol.io/packages/AutoFileName)
 3. [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
-4. [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+4. [Color Highlight](https://packagecontrol.io/packages/Color%20Highlight)
 5. [Emmet](https://packagecontrol.io/packages/Emmet)
 6. [GitGutter](https://packagecontrol.io/packages/GitGutter)
 7. [Sass](https://packagecontrol.io/packages/Sass)
