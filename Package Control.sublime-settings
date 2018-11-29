@@ -10,13 +10,17 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"Color Highlight",
+		"DocBlockr",
 		"Emmet",
+		"Git",
 		"GitGutter",
+		"HTMLBeautify",
 		"Package Control",
+		"Phpcs",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeGit",
 		"SublimeLinter",
-		"Terminal"
+		"Terminal",
+		"WordPress"
 	]
 }
