@@ -12,15 +12,14 @@
 		"Color Highlight",
 		"DocBlockr",
 		"Emmet",
-		"Git",
 		"GitGutter",
-		"HTMLBeautify",
+		"HTML-CSS-JS Prettify",
 		"Package Control",
-		"Phpcs",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Terminal",
+		"Text Pastry",
 		"WordPress"
 	]
 }
