@@ -26,7 +26,7 @@ This is my configuration for sublime text 3.
 5. Install Package Control in Sublime
 6. The magic awaits
 
-##Keyboard Shortcuts
+## Keyboard Shortcuts
 Hotkey | Action
 --- | ---
 `Ctrl`+`Shift`+`P` | Command Pallete
@@ -36,3 +36,4 @@ Hotkey | Action
 `Shift`+`Drag Right Click` | Multiple Column Selection
 `Ctrl`+`Left Click` | Single Column Selection
 `Ctrl`+`D` | Select Next Occurrence of the Word
+
