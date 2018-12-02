@@ -10,13 +10,14 @@ This is my configuration for sublime text 3.
 6. [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 7. [Emmet](https://packagecontrol.io/packages/Emmet)
 8. [GitGutter](https://packagecontrol.io/packages/GitGutter)
-9. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
+9. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) requires NodeJS
 10. [Sass](https://packagecontrol.io/packages/Sass)
 11. [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 12. [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
-13. [Terminal](https://packagecontrol.io/packages/Terminal)
-14. [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry)
-15. [WordPress](https://packagecontrol.io/packages/WordPress)
+13. [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) requires sass-lint `npm install -g sass-lint`
+14. [Terminal](https://packagecontrol.io/packages/Terminal)
+15. [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry)
+16. [WordPress](https://packagecontrol.io/packages/WordPress)
 
 ## Usage
 1. Have a fresh install of Sublime Text
