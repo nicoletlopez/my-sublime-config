@@ -10,7 +10,7 @@ This is my configuration for sublime text 3.
 6. [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 7. [Emmet](https://packagecontrol.io/packages/Emmet)
 8. [GitGutter](https://packagecontrol.io/packages/GitGutter)
-9. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) requires NodeJS
+9. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) requires [NodeJS](https://nodejs.org/)
 10. [Sass](https://packagecontrol.io/packages/Sass)
 11. [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 12. [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
