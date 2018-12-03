@@ -9,10 +9,10 @@ This is my configuration for sublime text 3.
 5. [Color Highlight](https://packagecontrol.io/packages/Color%20Highlight)
 6. [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 7. [Emmet](https://packagecontrol.io/packages/Emmet)
-8. [GitGutter](https://packagecontrol.io/packages/GitGutter)
-9. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) requires NodeJS
-10. [Sass](https://packagecontrol.io/packages/Sass)
-11. [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+8. [FileBrowser](https://packagecontrol.io/packages/FileBrowser)
+9. [GitGutter](https://packagecontrol.io/packages/GitGutter)
+10. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) requires NodeJS
+11. [Sass](https://packagecontrol.io/packages/Sass)
 12. [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 13. [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) requires sass-lint `npm install -g sass-lint`
 14. [Terminal](https://packagecontrol.io/packages/Terminal)
