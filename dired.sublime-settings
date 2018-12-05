@@ -1,9 +1,14 @@
 {
-	"dired_header": true,
-	"dired_to_copy":
-	[
-	],
-	"dired_to_move":
-	[
-	]
+    "keys": ["f1"],
+    "command": "dired",
+    "args":
+    {
+        "immediate": true,
+        "single_pane": true,
+        "other_group": "left",
+        "project": true,
+    },
+    "dired_header": true,
+    "dired_to_copy": [],
+    "dired_to_move": []
 }

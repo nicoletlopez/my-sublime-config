@@ -15,10 +15,12 @@
 		"FileBrowser",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"Minifier",
 		"Package Control",
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-jshint",
 		"Terminal",
 		"Text Pastry",
 		"WordPress"
