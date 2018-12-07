@@ -1,14 +1,28 @@
 {
-    "keys": ["f1"],
-    "command": "dired",
-    "args":
-    {
-        "immediate": true,
-        "single_pane": true,
-        "other_group": "left",
-        "project": true,
-    },
-    "dired_header": true,
-    "dired_to_copy": [],
-    "dired_to_move": []
+	"args":
+	{
+		"immediate": true,
+		"other_group": "left",
+		"project": true,
+		"single_pane": true
+	},
+	"command": "dired",
+	"dired_header": true,
+	"dired_jump_points":
+	{
+		"REDRIBBON": "/Users/dice205/Documents/Github/iwantmyrdc/",
+		"THEME-RDC": "/Users/dice205/Documents/Github/iwantmyrdc/wp-content/themes/iwantmyrdc/",
+		"THEME-UMTC": "/Users/dice205/Documents/Github/umtcwebsite/wp-content/themes/umtc/",
+		"UMTC": "/Users/dice205/Documents/Github/umtcwebsite/"
+	},
+	"dired_to_copy":
+	[
+	],
+	"dired_to_move":
+	[
+	],
+	"keys":
+	[
+		"f1"
+	]
 }
