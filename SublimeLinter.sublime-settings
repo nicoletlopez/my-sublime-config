@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+    "paths":
+    {
+        "linux": ["my-downloads/bin"],
+        "osx": ["my-downloads/bin"],
+        "windows": ["my-downloads/bin"]
+    },
+}
