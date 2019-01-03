@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
@@ -13,15 +12,18 @@
 		"DocBlockr",
 		"Emmet",
 		"FileBrowser",
+		"GhostText",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
 		"Minifier",
 		"Package Control",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-sass-lint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Terminal",
 		"Text Pastry",
 		"WordPress"
