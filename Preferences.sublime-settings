@@ -5,15 +5,19 @@
 	"ignored_packages":
 	[
 		"A File Icon",
-		"Vintage"
+		"Six",
+		"Vintage",
+		"Vintageous"
 	],
+	"neovintageous_build_version": 11100,
 	"rulers":
 	[
 		80
 	],
-	"save_on_focus_lost": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
 }
